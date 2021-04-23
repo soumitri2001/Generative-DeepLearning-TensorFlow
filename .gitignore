@@ -2,3 +2,6 @@
 *.zip
 *.tar.gz
 *.rar
+*.h5
+*.pb
+*.pth
